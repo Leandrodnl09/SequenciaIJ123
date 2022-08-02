@@ -1,0 +1,15 @@
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SequnciaIJ2\bin\Debug\net6.0\SequnciaIJ2.exe
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SequnciaIJ2\bin\Debug\net6.0\SequnciaIJ2.deps.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SequnciaIJ2\bin\Debug\net6.0\SequnciaIJ2.runtimeconfig.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SequnciaIJ2\bin\Debug\net6.0\SequnciaIJ2.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SequnciaIJ2\bin\Debug\net6.0\SequnciaIJ2.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SequnciaIJ2\obj\Debug\net6.0\SequnciaIJ2.csproj.AssemblyReference.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SequnciaIJ2\obj\Debug\net6.0\SequnciaIJ2.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SequnciaIJ2\obj\Debug\net6.0\SequnciaIJ2.AssemblyInfoInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SequnciaIJ2\obj\Debug\net6.0\SequnciaIJ2.AssemblyInfo.cs
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SequnciaIJ2\obj\Debug\net6.0\SequnciaIJ2.csproj.CoreCompileInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SequnciaIJ2\obj\Debug\net6.0\SequnciaIJ2.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SequnciaIJ2\obj\Debug\net6.0\refint\SequnciaIJ2.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SequnciaIJ2\obj\Debug\net6.0\SequnciaIJ2.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SequnciaIJ2\obj\Debug\net6.0\SequnciaIJ2.genruntimeconfig.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SequnciaIJ2\obj\Debug\net6.0\ref\SequnciaIJ2.dll
